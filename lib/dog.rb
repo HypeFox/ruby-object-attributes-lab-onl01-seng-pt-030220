@@ -17,3 +17,5 @@
   
 # end
 
+class Dog 
+  attr_accessor
