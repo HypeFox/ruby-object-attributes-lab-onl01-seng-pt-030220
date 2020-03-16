@@ -18,4 +18,6 @@
 # end
 
 class Dog 
-  attr_accessor
+  attr_accessor :name
+  attr_accessor :breed
+end
